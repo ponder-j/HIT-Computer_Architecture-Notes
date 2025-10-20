@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "a52933ff74874cfa",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d528d3781f5ad52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9fa2490c9b7e8e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第1章 计算机体系结构基本概念/1.1 计算机结构基本概念.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.1 计算机结构基本概念"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0c6df5312cbac1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6953a9e9814902bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be5ea65c890d6bc6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "81795040e5f647bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "76f7ed66650b1e4c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "69b0019f69457abb",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfc8e4c87e8fe828",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dba0ffb89c3c6ef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "第1章 计算机体系结构基本概念/1.1 计算机结构基本概念.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1.1 计算机结构基本概念"
+            }
+          },
+          {
+            "id": "bdee5da0ff1d0b47",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "第1章 计算机体系结构基本概念/1.1 计算机结构基本概念.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1.1 计算机结构基本概念"
+            }
+          },
+          {
+            "id": "633f6a2844135e5c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1687b782b653231b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "第1章 计算机体系结构基本概念/1.1 计算机结构基本概念.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1.1 计算机结构基本概念"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e9fa2490c9b7e8e5",
+  "lastOpenFiles": [
+    "第0章 前言/前言.md",
+    "第1章 计算机体系结构基本概念/1.1 计算机结构基本概念.md",
+    "Untitled",
+    "第6章 输入输出系统",
+    "第5章 存储层次",
+    "第4章 指令级并行",
+    "第3章 流水线技术",
+    "第2章 指令系统",
+    "第1章 计算机体系结构基本概念",
+    "第0章 前言"
+  ]
+}
