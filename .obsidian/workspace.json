@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第2章 指令系统/2.5 指令系统的设计与优化.md",
+                "file": "第2章 指令系统/2.6 指令系统的发展和改进.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.5 指令系统的设计与优化"
+              "title": "2.6 指令系统的发展和改进"
             }
           }
         ]
@@ -171,6 +171,9 @@
   },
   "active": "e9fa2490c9b7e8e5",
   "lastOpenFiles": [
+    "第2章 指令系统/attachments/Pasted image 20251106165139.png",
+    "第2章 指令系统/attachments",
+    "第2章 指令系统/2.5 指令系统的设计与优化.md",
     "第2章 指令系统/2.2 指令系统结构的分类.md",
     "ppts/Chapter 2-A_Survey_of_RISC_Processors_and_Computers_of_the_Mid-1980s.pdf",
     "ppts/Chapter 2-面向LoongArch边界检查访存指令的GCC优化实现_舒燕君.pdf",
@@ -180,7 +183,6 @@
     "第2章 指令系统/2.1 指令系统概述.md",
     "第2章 指令系统/2.7 指令格式举例.md",
     "第2章 指令系统/2.6 指令系统的发展和改进.md",
-    "第2章 指令系统/2.5 指令系统的设计与优化.md",
     "第2章 指令系统/2.4 操作数类型和大小.md",
     "第2章 指令系统/2.3 寻址方式.md",
     "第1章 计算机体系结构基本概念/1.3 计算机系统设计与分析.md",
@@ -193,7 +195,6 @@
     "Pasted image 20251023155502.png",
     "Pasted image 20251023155445.png",
     "第0章 前言/前言.md",
-    "Untitled",
-    "第6章 输入输出系统"
+    "Untitled"
   ]
 }
