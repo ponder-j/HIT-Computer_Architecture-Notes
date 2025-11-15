@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5d528d3781f5ad52",
+        "id": "d2d4502253b451a7",
         "type": "tabs",
         "children": [
           {
-            "id": "e9fa2490c9b7e8e5",
+            "id": "75c5f35512d97d3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第3章 流水线技术/Untitled.md",
+                "file": "第3章 流水线技术/3.1 流水线概述.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "3.1 流水线概述"
             }
           }
         ]
@@ -169,10 +169,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "e9fa2490c9b7e8e5",
+  "active": "75c5f35512d97d3e",
   "lastOpenFiles": [
+    "第3章 流水线技术/3.3 流水线性能分析.md",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.base",
+    "第3章 流水线技术/3.2 MIPS的基本流水线.md",
+    "第3章 流水线技术/3.1 流水线概述.md",
+    "第3章 流水线技术/attachments/Pasted image 20251115100924.png",
+    "第3章 流水线技术/attachments/Pasted image 20251115100902.png",
+    "第3章 流水线技术/attachments/Pasted image 20251115100842.png",
+    "第3章 流水线技术/attachments/Pasted image 20251115100819.png",
+    "第3章 流水线技术/attachments/Pasted image 20251115100757.png",
+    "第3章 流水线技术/attachments",
+    "第3章 流水线技术/3.4 实例分析：MIPS R4000.md",
     "第2章 指令系统/2.7 指令格式举例.md",
-    "第3章 流水线技术/Untitled.md",
     "第2章 指令系统/2.6 指令系统的发展和改进.md",
     "第2章 指令系统/attachments/Pasted image 20251106165139.png",
     "第2章 指令系统/attachments",
@@ -189,13 +201,9 @@
     "第1章 计算机体系结构基本概念/1.3 计算机系统设计与分析.md",
     "第1章 计算机体系结构基本概念/1.2 计算机体系结构的发展.md",
     "第1章 计算机体系结构基本概念/1.1 计算机结构基本概念.md",
-    "ppts/计算机体系结构 - 第1讲.pdf",
-    "ppts",
-    "未命名文件夹",
     "Pasted image 20251023155657.png",
     "Pasted image 20251023155502.png",
     "Pasted image 20251023155445.png",
-    "第0章 前言/前言.md",
-    "Untitled"
+    "第0章 前言/前言.md"
   ]
 }
